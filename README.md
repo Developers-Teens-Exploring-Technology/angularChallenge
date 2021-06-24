@@ -1,5 +1,7 @@
 # AngularChallenge
+
 This project is the angular challenge that goes over one way data binding, objects, and two data binding. 
+
 run `npm i` before running `ng serve`
 
 
